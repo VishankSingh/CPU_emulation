@@ -1,0 +1,5 @@
+[MACROS] MACRO_NAME
+[CONSTANT] CONSTANT_NAME
+
+[FUNCTION] module_name_Function_name
+[]
